@@ -1,6 +1,5 @@
 ---
 description: ¿Como usar los clanes?
-hidden: true
 ---
 
 # 👬 Clanes

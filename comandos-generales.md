@@ -18,6 +18,14 @@ Permite enviar un mensaje privado a un jugador.
 **/r (mensaje)**\
 Permite responder al último mensaje privado.
 
+<mark style="color:#9000df;">**/sb**</mark>\
+Permite deshabilitar/habilitar la scoreboard de la modalidad.
+
+<mark style="color:#9000df;">**/tpa \[jugador]**</mark>\
+Envía una solicitud para teletransportarte hacia otro jugador.
+
+<mark style="color:#9000df;">**/tpaccept**</mark>\
+Acepta una solicitud de teletransporte.
 **/balance**\
 Permite ver el dinero que tienes en la modalidad.
 

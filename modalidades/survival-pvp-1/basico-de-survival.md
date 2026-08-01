@@ -30,6 +30,21 @@ Para saber que warps hay en el servidor, usa <mark style="color:purple;">**/warp
 
 Usa <mark style="color:purple;">**/warp \[nombre]**</mark> y podrás teletransportarte hacia ellos.
 
+## <mark style="color:#9000df;">Comandos de Survival</mark>
+
+| Comando | Descripción |
+| --- | --- |
+| `/balance` | Muestra tu dinero en Survival. |
+| `/sellgui` | Abre el menú para vender los objetos obtenidos. |
+| `/sellall inventory` | Vende los objetos compatibles de tu inventario. |
+| `/warps` | Muestra los warps disponibles en Survival. |
+| `/pv 1` | Abre tu almacén personal. |
+| `/ec` | Abre tu Ender Chest. |
+| `/sethome <nombre>` | Guarda una ubicación como home. |
+| `/home <nombre>` | Te lleva a un home guardado. |
+| `/delhome <nombre>` | Elimina un home guardado. |
+| `/top` o `/tops` | Muestra los rankings de Survival. |
+
 
 
 {% hint style="info" %}

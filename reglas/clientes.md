@@ -1,5 +1,6 @@
 ---
 description: Clientes no permitidos, no soportados y permitidos
+hidden: true
 ---
 
 # 😂 Clientes
