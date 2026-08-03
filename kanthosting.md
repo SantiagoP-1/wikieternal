@@ -1,5 +1,7 @@
 ---
-description: Hosting de alto rendimiento para servidores de Minecraft, Hytale, Rust y Discord Bots.
+description: >-
+  Hosting de alto rendimiento para servidores de Minecraft, Hytale, Rust y
+  Discord Bots.
 cover: .gitbook/assets/banner-kanthosting.jpg
 coverY: 0
 ---
@@ -12,7 +14,7 @@ coverY: 0
 
 ## <mark style="color:orange;">⚙️ Potencia que se nota</mark>
 
-* 🔥 CPU AMD Ryzen 9 7900: rendimiento que vuela.
+* 🔥 CPU AMD Ryzen 9 9950X: rendimiento que vuela.
 * 💾 RAM DDR5 de última generación.
 
 ## <mark style="color:orange;">🎛️ Panel de control simple e intuitivo</mark>
