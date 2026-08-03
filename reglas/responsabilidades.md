@@ -1,10 +1,11 @@
 ---
 description: Responsabilidades al actuar
+hidden: true
 ---
 
 # 🤔 Responsabilidades
 
-## <mark style="color:#9000df;">**RESPONSABILIDAD DEL USUARIO**</mark>
+## **RESPONSABILIDAD DEL USUARIO**
 
 1. El Staff no se hace responsable de pérdidas por TPAKILLS o confianza en desconocidos.
 2. El Staff no se hace responsable por perdidas de estafas entre usuarios. <mark style="color:red;">Pero es sancionable al estafador y asi no lo haga mas.</mark>

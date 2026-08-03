@@ -21,13 +21,13 @@
 
 ## 😎 MODALIDADES
 
-* [⚔️ Semianárquico](modalidades/survival-pvp/README.md)
-  * [🚗 Básico de Semianárquico](modalidades/survival-pvp/basico-de-survival.md)
-  * [👬 Clanes](modalidades/survival-pvp/clanes.md)
-  * [🎯 Bounties](modalidades/survival-pvp/bounties.md)
-  * [🏠 Subastas](modalidades/survival-pvp/subastas.md)
-  * [🏦 Bloques por Chunk](modalidades/survival-pvp/bloques-por-chunk.md)
-  * [🐷 Entidades por Chunk](modalidades/survival-pvp/entidades-por-chunk.md)
-  * [🥶 Koth](modalidades/survival-pvp/koth.md)
-  * [🧩 Marcos invisibles](modalidades/survival-pvp/marcos-invisibles.md)
-  * [👀 Mercado](modalidades/survival-pvp/mercado.md)
+* [⚔️ Semianárquico](modalidades/semianarquico/README.md)
+  * [🚗 Básico de Semianárquico](modalidades/semianarquico/basico-de-survival.md)
+  * [👬 Clanes](modalidades/semianarquico/clanes.md)
+  * [🎯 Bounties](modalidades/semianarquico/bounties.md)
+  * [🏠 Subastas](modalidades/semianarquico/subastas.md)
+  * [🏦 Bloques por Chunk](modalidades/semianarquico/bloques-por-chunk.md)
+  * [🐷 Entidades por Chunk](modalidades/semianarquico/entidades-por-chunk.md)
+  * [🥶 Koth](modalidades/semianarquico/koth.md)
+  * [🧩 Marcos invisibles](modalidades/semianarquico/marcos-invisibles.md)
+  * [👀 Mercado](modalidades/semianarquico/mercado.md)
