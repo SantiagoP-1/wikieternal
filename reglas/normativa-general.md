@@ -18,7 +18,7 @@ La administración de **EternalSMP** puede modificar este reglamento cuando sea 
 4. El doxing, swatting y DDoS están estrictamente prohibidos.
 5. No se permiten nombres de usuario, skins ni apodos inapropiados u ofensivos.
 6. Está prohibido utilizar `/nick` para suplantar a jugadores o miembros del staff.
-7. No se permite robar cuentas de otros jugadores. Consulta las [responsabilidades de las cuentas](responsabilidades.md).
+7. No se permite robar cuentas de otros jugadores.
 8. Está prohibido vender rangos, objetos o beneficios del servidor a cambio de dinero o elementos externos a EternalSMP.
 9. Evadir una sanción implicará una sanción mayor.
 10. Modificar o borrar archivos antes o durante una revisión es sancionable.
@@ -26,23 +26,19 @@ La administración de **EternalSMP** puede modificar este reglamento cuando sea 
 12. No se permite crear o promocionar servidores externos de Discord con el fin de desviar actividades o eventos de la comunidad de EternalSMP.
 13. No se permite acusar públicamente a otros jugadores sin pruebas.
 
-
-
 ## <mark style="color:red;">CHAT</mark>
 
-1. No Spamming y disturbios&#x20;
+1. No Spamming y disturbios
 2. No toxicidad en el chat
 3. No alterar el chat con discusiones
 4. No toxicidad al staff
 5. No toxicidad al equipo administrativo
 6. El acoso, discriminación y racismo no están permitidos.
-7. No compartir información de otros&#x20;
-8. No hacer publicidad ni promoción&#x20;
+7. No compartir información de otros
+8. No hacer publicidad ni promoción
 9. No amenazar de muerte ni incitar al suicidio
 10. No al mal uso de /helpop o /report
 11. No se permite fastidiar constantemente o acosar al staff
-
-
 
 ## <mark style="color:red;">MULTICUENTAS Y CUENTAS AFK</mark>
 
@@ -62,8 +58,6 @@ Queda estrictamente prohibido utilizar cuentas adicionales, activas o AFK, para 
 
 * Las cuentas secundarias podrán ser baneadas permanentemente.
 * La cuenta principal podrá recibir una sanción temporal o permanente según la gravedad y reincidencia.
-
-
 
 {% hint style="info" %}
 TIP: Si encuentras algún jugador incumpliendo la normativa, por favor abre un ticket en nuestro [Discord](https://discord.eternalsmp.lat).
